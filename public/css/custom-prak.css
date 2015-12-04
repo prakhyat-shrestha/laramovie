@@ -1,0 +1,42 @@
+
+.mv-details {
+	margin-top: 20px;
+}
+
+.post-photo{
+	float: left;
+	margin-bottom: 2px;
+	margin-right: 22px;
+	width: 400px;
+}
+
+.mv-info{
+	float:right;
+	width: 300px;
+	margin-right: 250px;
+	margin-top: 150px;
+}
+
+.mv-info h3 {
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+
+
+
+.box .movie {
+	padding-bottom: 15px;
+}
+
+h1#logo {
+
+
+}
+
+h1#logo a{
+	text-decoration: none;
+	font-style: italic;
+	font-size: 40px;
+	font-weight: bold;
+
+}

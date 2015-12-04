@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: laramovie
+        psr4_prefix: laramovie
+        src_path: app
