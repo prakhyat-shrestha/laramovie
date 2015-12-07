@@ -1,27 +1,41 @@
-## Laravel PHP Framework
+# LaraMovie - Movie Site using Laravel 5.1 and Bootstrap 3.3.2
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Welcome. to my github page. The site is a simple news blog site created to demonstrate my understanding of basic Laravel features
+aswell as implementing a complete website with latest web technologies. I have used bootstrap to theme this site and the back-end
+is implemented with Laravel. Feel free to use my code if you are looking to build a blog site.Thank You.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## LaraMovie Features:
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+* Twitter Bootstrap 3.3.2
+* Laravel 5.1
+* Back-end
+	* Creating Movies and Genres 
+	* Retrieving Movies
+	* Updating Movies
+	* Deleting Movies
+* Front-end
+	* Admin Login
+	* View Movies
+	* View Static pages
+	* View Movies according to genres
+	* View all Genres
+	* Movie Detail Page
 
-## Official Documentation
+---
+## Requirements
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+	PHP >= 5.5.9
+	SQL server(for example MySQL)
+	Composer
 
-## Contributing
+##How to install:
+* [Step 1: Get the code]
+* [Step 2: Use Composer to install dependencies]
+* [Step 3: Create database]
+* [Step 4: Start Page]
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+---
 
-## Security Vulnerabilities
+## License
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+This is free software distributed under the terms of the MIT license
